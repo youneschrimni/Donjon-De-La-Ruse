@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Adventura</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bienvenu</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="dungeon_fragment_label">Dungeon Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="you_died">Vous avez perdu</string>
+    <string name="monster_died">Monstre tué</string>
+
+    <string name="level">Niveau</string>
+    <string name="your_health">Votre HP</string>
+    <string name="monster_health">Monstre HP</string>
+
+    <string name="you_dealt">Vous avez infligé</string>
+    <string name="monster_dealt">Monstre a infligé</string>
+    <string name="damage">dégâts</string>
+
+    <string name="roll">
+        Lancer des dés
+    </string>
+    <string name="dungeon">
+        Vous avez rencontré un monstre, tuez le pour progresser
+    </string>
+    <string name="welcome">
+        Bienvenu dans Dungeon Crawler
+    </string>
+</resources>
